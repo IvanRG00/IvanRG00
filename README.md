@@ -2,7 +2,7 @@
 <h3 align="center">hard working person with  passion for programing.</h1>
 <img align=right alt="coding" width="400" src=https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif>
 
--  🌱 I’m currently learning **Spring boot**
+-  :book: I’m currently learning **Spring boot**
 
 - 💬 Ask me about: **Java**
 
