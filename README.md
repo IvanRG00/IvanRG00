@@ -2,9 +2,9 @@
 <h3 align="center">hard working person with  passion for programing.</h1>
 <img align=right alt="coding" width="400" src=https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif>
 
--  :book: I’m currently learning **Spring boot**
 
-- 💬 Ask me about: **Java**
+
+- 💬 Ask me about: **Java,C#**
 
 - :mailbox_with_mail: Contact me at: **ivangeorgiev006050@gmail.com**
 
